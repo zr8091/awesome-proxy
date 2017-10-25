@@ -1,3 +1,10 @@
-# Awesome Proxy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Proxy[![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Proxy tutorials, tools and resources.
+A curated list of awesome proxy tutorials, tools and resources.
+
+* [Tools](#tools)
+    * [squid](#squid)
+    * [XX-Net](#xx-net)
+    * [shadowsocks](#shadowsocks)
+    * [chuguo](https://github.com/chuguofan/chuguo)
+* [Vps](#vps)
