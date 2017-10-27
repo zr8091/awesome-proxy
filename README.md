@@ -7,6 +7,7 @@ A curated list of awesome proxy tutorials, tools and resources.
     - [XX-Net](#xx-net)
     - [shadowsocks](#shadowsocks)
     - [chuguo](https://github.com/chuguofan/chuguo)
+    - [ngrok](#ngrok)
 - [Vps](#vps)
 
 
@@ -27,6 +28,11 @@ A curated list of awesome proxy tutorials, tools and resources.
 - [IOS](https://github.com/shadowsocks/ShadowsocksX-NG)
 - [Android](https://github.com/shadowsocks/shadowsocks-android)
 - [后端管理](https://github.com/shadowsocks/shadowsocks-manager)
+
+## ngrok
+语言：golang。支持本地安全隧道映射到公网上。
+- [官网](https://ngrok.com/)
+- [github](https://github.com/inconshreveable/ngrok)
 
 ## VPS
 这里收集一些低价的vps，适合做代理。后期我将给出免费和共享方案。
